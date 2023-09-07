@@ -4,7 +4,7 @@
 用于统计吧务团队指定时间段内的操作量
 
 #### 界面
-![软件预览图](https://www.bakasnow.com/tuchuang/wbczltj.png "wbczltj.png")
+![软件预览图](https://www.bakasnow.com/tuchuang/bwczltj.png "bwczltj.png")
 
 #### 功能
 1. 支持多账号，多贴吧，多职务
